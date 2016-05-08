@@ -18,7 +18,6 @@ For project-specific technical details refer to the project repositories.
 
 ---
 
-
 ## Project Repositories
 
 [Greenshield Software] (https://github.com/ArdNut/Greenshield)
@@ -26,4 +25,17 @@ For project-specific technical details refer to the project repositories.
 [Greenshield PCB] (https://github.com/ArdNut/Greenshield_Hardware)
 
 
+## Other Books by J. M. Hughes
 
+You might also find my other books useful in your Arduino endeavors. They are available directly
+from O'Reilly (listed below) and of course Amazon.
+
+[Real World Instrumentation with Python] (http://shop.oreilly.com/product/9780596809577.do)
+
+[Practical Electronics: Components and Techniques] (http://shop.oreilly.com/product/0636920032113.do#)
+
+---
+
+As I learn more about GitHub I will incorporiate more features into this set of repositories (I'm from
+the world of RCS, CVS, and SVN, so some of GitHub's features are new to me). I also post things on my
+technical blog from time to time. You can find that at: [Crankycode] (https://crankycode.wordpress.com/).
