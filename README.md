@@ -24,11 +24,25 @@ For project-specific technical details refer to the project repositories.
 
 [Greenshield PCB] (https://github.com/ArdNut/Greenshield_Hardware)
 
+[Signal Generator] (https://github.com/ArdNut/libraries.git)
+
+[Switchinator Software] (https://github.com/ArdNut/Switchinator.git)
+
+[Switchinator PCB] (https://github.com/ArdNut/Switchinator_Hardware.git)
+
+[Thermostat Software] (https://github.com/ArdNut/Thermostat.git)
+
+[Libraries] (https://github.com/ArdNut/libraries.git)
+
+[Miscellaneous] (https://github.com/ArdNut/Miscellaneous.git)
+
+
+
 
 ## Other Books by J. M. Hughes
 
 You might also find my other books useful in your Arduino endeavors. They are available directly
-from O'Reilly (listed below) and of course Amazon.
+from O'Reilly (listed below), and of course Amazon and other book sellers.
 
 [Real World Instrumentation with Python] (http://shop.oreilly.com/product/9780596809577.do)
 
