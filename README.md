@@ -24,7 +24,7 @@ For project-specific technical details refer to the project repositories.
 
 [Greenshield PCB] (https://github.com/ArdNut/Greenshield_Hardware)
 
-[Signal Generator] (https://github.com/ArdNut/libraries.git)
+[Signal Generator] (https://github.com/ArdNut/SignalGen.git)
 
 [Switchinator Software] (https://github.com/ArdNut/Switchinator.git)
 
